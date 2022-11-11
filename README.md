@@ -1,4 +1,4 @@
-##Business card at scrimba
+## Business card at scrimba
 
 the website is here; https://scrimba-buziness-card.netlify.app/
 ## About Scrimba
