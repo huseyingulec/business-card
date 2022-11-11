@@ -1,13 +1,6 @@
-# co87a4f5b9d2f6dfa7879d6d3
+##Business card at scrimba
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
+the website is here; https://scrimba-buziness-card.netlify.app/
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
