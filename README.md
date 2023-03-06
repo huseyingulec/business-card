@@ -1,3 +1,6 @@
+# A very beginning of a code journey 
+In this mini project, I have learnt so many fundamentals of CSS such as background color, text color, text font etc. It was fun...
+
 ## Business card at scrimba
 
 the website is here; https://scrimba-buziness-card.netlify.app/
