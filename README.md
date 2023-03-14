@@ -1,9 +1,12 @@
-# A very beginning of a code journey 
-In this mini project, I have learnt so many fundamentals of CSS such as background color, text color, text font etc. It was fun...
-
 ## Business card at scrimba
 
 the website is here; https://scrimba-buziness-card.netlify.app/
+
+## What I've done;
+
+In this mini project, I have learnt image alt texts, flex child containers, inheritance, shorthands of margin and paddings, web-safe fonts and color palettes. I am so excited to deep dive into web development field.
+
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
